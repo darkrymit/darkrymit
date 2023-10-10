@@ -62,6 +62,6 @@
 
 <div align="center"> 
   
-[![](https://visitcount.itsvg.in/api?id=DarkRymit&icon=5&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/darkrymit/count.svg)
 
 </div>
