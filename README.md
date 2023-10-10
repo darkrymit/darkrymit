@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tamerlan</h1>
 
+# 💫 About Me
 
-# 💫 About Me<br/>
 🔭 I’m currently studying in Epam Systems<br>
 🌱 I’m currently learning Spring ecosystem<br>
 
+## 🌐 Socials
 
-## 🌐 Socials<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamerlan-hurbanov-18963523b)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19241779)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DarkRymit)
 
 ## 🛠️ Skills
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,23 +40,20 @@
 ![SLF4J](https://img.shields.io/badge/SLF4J-c3ffb8.svg?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DarkRymit&theme=tokyonight&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&line_height=21)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRymit&hide=html&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 ## 🏆 GitHub Trophies
-
 
 ![](https://github-profile-trophy.vercel.app/?username=DarkRymit&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-
-
 ## ✍️ Random Dev Quote
-<div align="center"> 
 
+<div align="center"> 
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
@@ -63,7 +61,7 @@
 ---
 
 <div align="center"> 
-
+  
 [![](https://visitcount.itsvg.in/api?id=DarkRymit&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </div>
