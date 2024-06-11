@@ -2,8 +2,11 @@
 
 # 💫 About Me
 
-🔭 I’m currently studying in Epam Systems<br>
-🌱 I’m currently learning Spring ecosystem<br>
+I’m a Java Developer with a robust skill set, including proficiency in Spring
+Framework, WebSocket, REST APIs, AWS deployment, Docker, K8S, and much more, with a high
+commitment to staying updated with emerging technologies. Skilled in server-side programming,
+focusing on improving performance and enhancing user experience. Proficient with agile
+methodologies to adapt to evolving project requirements and provide robust, scalable solutions
 
 ## 🌐 Socials
 
