@@ -75,4 +75,8 @@ Beyond enterprise software, I'm a passionate maker and homelab enthusiast. Wheth
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center"> 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+</div>
