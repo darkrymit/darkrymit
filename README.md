@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tamerlan
-![Software Engineer](https://img.shields.io/badge/Software-Engineer-005BBB?style=flat&labelColor=FFD500)
+[![Software Engineer](https://img.shields.io/badge/Software-Engineer-005BBB?style=flat&labelColor=FFD500)](https://github.com/darkrymit)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hurbanov.tamerlan@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tamerlan-hurbanov-18963523b)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DarkRymit)
