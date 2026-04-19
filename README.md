@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Tamerlan
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hurbanov.tamerlan@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tamerlan-hurbanov-18963523b)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DarkRymit)
-
----
 
 I’m a Software Engineer deeply focused on building scalable backend systems, AI agent architectures, and robust web applications. With a strong background in server-side programming, system architecture, and agile methodologies, I specialize in orchestrating complex microservices across both the Java and Node.js ecosystems.
 
@@ -16,6 +11,12 @@ Beyond enterprise software, I'm a passionate maker and homelab enthusiast. Wheth
 - 🔌 Developing embedded systems and hardware integrations using **C++** and **PlatformIO**.
 - 💻 Maintaining **`context-runes`**, an open-source CLI tool for managing AI agent project context.
 - ⚡ Tinkering with my **Proxmox** homelab, Docker/Portainer container orchestration, and advanced networking.
+
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hurbanov.tamerlan@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tamerlan-hurbanov-18963523b)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DarkRymit)
+
 
 ## 🛠️ Skills
 
