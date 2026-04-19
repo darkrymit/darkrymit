@@ -1,54 +1,24 @@
-<h1 align="center">Hi 👋, I'm Tamerlan</h1>
-<h3 align="center">Software Engineer from Ukraine 🇺🇦</h3>
+# 👋 Hi, I'm Tamerlan
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-005BBB?style=flat&labelColor=FFD500)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hurbanov.tamerlan@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tamerlan-hurbanov-18963523b)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DarkRymit)
 
-<div align="center">
-
-# 💫 About Me
-
-</div>
-
-<div align="center">
 I’m a Software Engineer deeply focused on building scalable backend systems, AI agent architectures, and robust web applications. With a strong background in server-side programming, system architecture, and agile methodologies, I specialize in orchestrating complex microservices across both the Java and Node.js ecosystems.
 
-Beyond enterprise software, I'm a passionate maker and homelab enthusiast. Whether I'm building AI tools with
-LangChain4j, writing strictly typed front-end architectures, or diving into low-level embedded programming with C++ and
-PlatformIO for my hardware projects, I love building things from the ground up and delivering clean, reliable code.
-</div>
-<div align="center">
+Beyond enterprise software, I'm a passionate maker and homelab enthusiast. Whether I'm building AI tools with LangChain4j, writing strictly typed front-end architectures, or diving into low-level embedded programming with C++ and PlatformIO for my hardware projects, I love building things from the ground up and delivering clean, reliable code.
 
 ### 🔭 Current Focus
 
-</div>
-
-<div align="center">
-
-🧠 Building and orchestrating **AI agent architectures**  using Java, Quarkus, LangChain4j, and local
-LLMs (Ollama).
-
-⚙️ Bridging the gap between robust **Java** backends and high-performance **Node.js / TypeScript** full-stack
-ecosystems.
-
-🔌 Developing embedded systems and hardware integrations using **C++** and **PlatformIO**.
-
-💻 Maintaining **`context-runes`**, an open-source CLI tool for managing AI agent project context.
-
-⚡ Tinkering with my **Proxmox** homelab, Docker/Portainer container orchestration, and advanced networking.
-</div>
-
-<div align="center">
+- 🧠 Building and orchestrating **AI agent architectures** using Java, Quarkus, LangChain4j, and local LLMs (Ollama).
+- ⚙️ Bridging the gap between robust **Java** backends and high-performance **Node.js / TypeScript** full-stack ecosystems.
+- 🔌 Developing embedded systems and hardware integrations using **C++** and **PlatformIO**.
+- 💻 Maintaining **`context-runes`**, an open-source CLI tool for managing AI agent project context.
+- ⚡ Tinkering with my **Proxmox** homelab, Docker/Portainer container orchestration, and advanced networking.
 
 ## 🛠️ Skills
 
-</div>
-
-<div align="center">
-
 ### 👨‍💻 Languages & Full-Stack Frameworks
-
-</div>
-
-<div align="center">
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -65,16 +35,7 @@ ecosystems.
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-</div>
-
-<div align="center">
-
 ### 🧠 Architecture & AI
-
-</div>
-
-<div align="center">
-
 ![System Architecture](https://img.shields.io/badge/System_Architecture-316192?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-008ECF?style=for-the-badge)
 ![Networking/Proxies](https://img.shields.io/badge/Networking_%26_Proxies-E34F26?style=for-the-badge)
@@ -84,31 +45,16 @@ ecosystems.
 ![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-</div>
-
-<div align="center">
 
 ### ☁️ Infrastructure & Homelab
-
-</div>
-<div align="center">
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AMAZON%20WEB%20SERVICES&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=Portainer&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
-</div>
-
-<div align="center">
 
 ### 🗄️ Data, Security & Tooling
-
-</div>
-
-<div align="center">
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -124,25 +70,13 @@ ecosystems.
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-</div>
-<div align="center">
 
-## ✍️ Random Dev Quote
-
-</div>
+---
 
 <div align="center"> 
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## ✍️ Random Dev Quote
 
-</div>
-
-<div align="center">
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hurbanov.tamerlan@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tamerlan-hurbanov-18963523b)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DarkRymit)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
